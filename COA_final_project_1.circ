@@ -2359,14 +2359,12 @@
       <a name="width" val="4"/>
     </comp>
     <comp lib="5" loc="(1000,1930)" name="LED">
-      <a name="color" val="#e404f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="D8"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(1020,2210)" name="7-Segment Display"/>
     <comp lib="5" loc="(1030,1930)" name="LED">
-      <a name="color" val="#f02d73"/>
       <a name="facing" val="north"/>
       <a name="label" val="D7"/>
       <a name="labelloc" val="south"/>
@@ -2399,14 +2397,12 @@
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(1200,1930)" name="LED">
-      <a name="color" val="#4291f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="D1"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(1200,2210)" name="7-Segment Display"/>
     <comp lib="5" loc="(1220,1900)" name="LED">
-      <a name="color" val="#25f039"/>
       <a name="facing" val="north"/>
       <a name="label" val="D0"/>
       <a name="labelloc" val="south"/>
@@ -2417,13 +2413,11 @@
     <comp lib="5" loc="(1460,2230)" name="7-Segment Display"/>
     <comp lib="5" loc="(1520,2230)" name="7-Segment Display"/>
     <comp lib="5" loc="(2190,1580)" name="LED">
-      <a name="color" val="#1117f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="A15"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2220,1580)" name="LED">
-      <a name="color" val="#a754f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="A14"/>
       <a name="labelloc" val="south"/>
@@ -2434,7 +2428,6 @@
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2250,1500)" name="LED">
-      <a name="color" val="#f0bede"/>
       <a name="facing" val="north"/>
       <a name="label" val="A13"/>
       <a name="labelloc" val="south"/>
@@ -2525,19 +2518,16 @@
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2580,1600)" name="LED">
-      <a name="color" val="#94f006"/>
       <a name="facing" val="north"/>
       <a name="label" val="A2"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2610,1570)" name="LED">
-      <a name="color" val="#15f0de"/>
       <a name="facing" val="north"/>
       <a name="label" val="A1"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2640,1570)" name="LED">
-      <a name="color" val="#d2f025"/>
       <a name="facing" val="north"/>
       <a name="label" val="A0"/>
       <a name="labelloc" val="south"/>
@@ -2549,13 +2539,11 @@
     <comp lib="5" loc="(720,2200)" name="7-Segment Display"/>
     <comp lib="5" loc="(780,2200)" name="7-Segment Display"/>
     <comp lib="5" loc="(790,1890)" name="LED">
-      <a name="color" val="#3df046"/>
       <a name="facing" val="north"/>
       <a name="label" val="D15"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(820,1910)" name="LED">
-      <a name="color" val="#496cf0"/>
       <a name="facing" val="north"/>
       <a name="label" val="D14"/>
       <a name="labelloc" val="south"/>
@@ -2583,7 +2571,6 @@
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(960,1930)" name="LED">
-      <a name="color" val="#eb13f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="D9"/>
       <a name="labelloc" val="south"/>
@@ -2694,8 +2681,9 @@
     <wire from="(1050,880)" to="(1050,1050)"/>
     <wire from="(1060,1040)" to="(1060,1230)"/>
     <wire from="(1060,1040)" to="(1170,1040)"/>
-    <wire from="(1060,1230)" to="(1060,1480)"/>
+    <wire from="(1060,1230)" to="(1060,1440)"/>
     <wire from="(1060,1230)" to="(1170,1230)"/>
+    <wire from="(1060,1440)" to="(1060,1480)"/>
     <wire from="(1060,1480)" to="(1060,1680)"/>
     <wire from="(1060,1480)" to="(1170,1480)"/>
     <wire from="(1060,1680)" to="(1060,1850)"/>
@@ -2712,8 +2700,9 @@
     <wire from="(1060,870)" to="(1060,1040)"/>
     <wire from="(1070,1030)" to="(1070,1220)"/>
     <wire from="(1070,1030)" to="(1170,1030)"/>
-    <wire from="(1070,1220)" to="(1070,1470)"/>
+    <wire from="(1070,1220)" to="(1070,1430)"/>
     <wire from="(1070,1220)" to="(1170,1220)"/>
+    <wire from="(1070,1430)" to="(1070,1470)"/>
     <wire from="(1070,1470)" to="(1070,1670)"/>
     <wire from="(1070,1470)" to="(1170,1470)"/>
     <wire from="(1070,1670)" to="(1070,1840)"/>
@@ -2723,8 +2712,9 @@
     <wire from="(1070,860)" to="(1070,1030)"/>
     <wire from="(1080,1020)" to="(1080,1210)"/>
     <wire from="(1080,1020)" to="(1170,1020)"/>
-    <wire from="(1080,1210)" to="(1080,1460)"/>
+    <wire from="(1080,1210)" to="(1080,1420)"/>
     <wire from="(1080,1210)" to="(1170,1210)"/>
+    <wire from="(1080,1420)" to="(1080,1460)"/>
     <wire from="(1080,1460)" to="(1080,1660)"/>
     <wire from="(1080,1460)" to="(1170,1460)"/>
     <wire from="(1080,1660)" to="(1080,1830)"/>
@@ -3221,6 +3211,9 @@
     <wire from="(840,1340)" to="(950,1340)"/>
     <wire from="(840,1350)" to="(940,1350)"/>
     <wire from="(840,1360)" to="(930,1360)"/>
+    <wire from="(840,1420)" to="(1080,1420)"/>
+    <wire from="(840,1430)" to="(1070,1430)"/>
+    <wire from="(840,1440)" to="(1060,1440)"/>
     <wire from="(840,1450)" to="(1050,1450)"/>
     <wire from="(840,1460)" to="(1040,1460)"/>
     <wire from="(840,1470)" to="(1030,1470)"/>
