@@ -2359,12 +2359,14 @@
       <a name="width" val="4"/>
     </comp>
     <comp lib="5" loc="(1000,1930)" name="LED">
+      <a name="color" val="#e404f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="D8"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(1020,2210)" name="7-Segment Display"/>
     <comp lib="5" loc="(1030,1930)" name="LED">
+      <a name="color" val="#f02d73"/>
       <a name="facing" val="north"/>
       <a name="label" val="D7"/>
       <a name="labelloc" val="south"/>
@@ -2397,12 +2399,14 @@
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(1200,1930)" name="LED">
+      <a name="color" val="#4291f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="D1"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(1200,2210)" name="7-Segment Display"/>
     <comp lib="5" loc="(1220,1900)" name="LED">
+      <a name="color" val="#25f039"/>
       <a name="facing" val="north"/>
       <a name="label" val="D0"/>
       <a name="labelloc" val="south"/>
@@ -2413,11 +2417,13 @@
     <comp lib="5" loc="(1460,2230)" name="7-Segment Display"/>
     <comp lib="5" loc="(1520,2230)" name="7-Segment Display"/>
     <comp lib="5" loc="(2190,1580)" name="LED">
+      <a name="color" val="#1117f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="A15"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2220,1580)" name="LED">
+      <a name="color" val="#a754f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="A14"/>
       <a name="labelloc" val="south"/>
@@ -2428,6 +2434,7 @@
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2250,1500)" name="LED">
+      <a name="color" val="#f0bede"/>
       <a name="facing" val="north"/>
       <a name="label" val="A13"/>
       <a name="labelloc" val="south"/>
@@ -2518,16 +2525,19 @@
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2580,1600)" name="LED">
+      <a name="color" val="#94f006"/>
       <a name="facing" val="north"/>
       <a name="label" val="A2"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2610,1570)" name="LED">
+      <a name="color" val="#15f0de"/>
       <a name="facing" val="north"/>
       <a name="label" val="A1"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(2640,1570)" name="LED">
+      <a name="color" val="#d2f025"/>
       <a name="facing" val="north"/>
       <a name="label" val="A0"/>
       <a name="labelloc" val="south"/>
@@ -2539,11 +2549,13 @@
     <comp lib="5" loc="(720,2200)" name="7-Segment Display"/>
     <comp lib="5" loc="(780,2200)" name="7-Segment Display"/>
     <comp lib="5" loc="(790,1890)" name="LED">
+      <a name="color" val="#3df046"/>
       <a name="facing" val="north"/>
       <a name="label" val="D15"/>
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(820,1910)" name="LED">
+      <a name="color" val="#496cf0"/>
       <a name="facing" val="north"/>
       <a name="label" val="D14"/>
       <a name="labelloc" val="south"/>
@@ -2571,6 +2583,7 @@
       <a name="labelloc" val="south"/>
     </comp>
     <comp lib="5" loc="(960,1930)" name="LED">
+      <a name="color" val="#eb13f0"/>
       <a name="facing" val="north"/>
       <a name="label" val="D9"/>
       <a name="labelloc" val="south"/>
